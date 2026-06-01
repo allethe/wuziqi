@@ -1,0 +1,12 @@
+{
+  "name": "wuziqi-game",
+  "version": "1.0.0",
+  "description": "五子棋游戏",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "echo 'Static site, no build needed'"
+  },
+  "keywords": ["game", "wuziqi", "gomoku"],
+  "author": "",
+  "license": "MIT"
+}
