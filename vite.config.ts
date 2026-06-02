@@ -8,6 +8,7 @@ export default defineConfig({
   base: '/wuziqi/',
   build: {
     sourcemap: 'hidden',
+    outDir: 'dist',
   },
   plugins: [
     react({
